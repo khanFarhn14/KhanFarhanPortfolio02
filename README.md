@@ -1,16 +1,19 @@
-# khan_farhan_02
+# Khan Farhan's Portfolio
 
-A new Flutter project.
+Welcome to my portfolio! This is where I showcase my skills, projects, and experiences as a Flutter developer. I'm excited to have you here, and I hope you find something that interests you.
 
-## Getting Started
+<p align="center">
+<img src="assets\images\Portfolio Post Desktop.png" width="700">
+</p>
+<p align="center">
+<img src="assets\images\Portfolio Post Mobile.png" width="700">
+</p>
 
-This project is a starting point for a Flutter application.
+## About Me
 
-A few resources to get you started if this is your first Flutter project:
+I am a passionate Flutter developer with a strong background in UI/UX design. My goal is to create user-friendly and visually appealing mobile applications. In this portfolio, you will find a collection of projects that demonstrate my abilities and highlight my journey in the world of app development.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/khan-farhan-079884220/)
+- [Twitter](https://twitter.com/_khanFarhn_)
+- thecubeshade21@gmail.com 
